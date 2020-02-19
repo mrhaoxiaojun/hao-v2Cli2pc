@@ -6,7 +6,6 @@
 
 > A Vue.js project  Vue栈pc端demo
 >
-> 大佬们别急，马上我们就跟新到 cli3x 只是当前还是要跟整体项目架构规划，维持统一、稳定性
 
 ## Build Setup
 
